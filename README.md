@@ -8,7 +8,7 @@
 ## 👨‍💻 Sobre mim
 - 📍 Brasil  
 - 🎓 Estudante de tecnologia 
----
+
 
 ## 🌐 Redes
 <p align="center">
@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=Xavees&color=blue&style=flat-square"/>
 </p>
 
----
+
 
 ## 🛠️ Linguagens e Ferramentas
 <p align="center">
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
 </p>
 
----
+
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
