@@ -41,5 +41,3 @@ Estou em constante evolução na área de tecnologia, buscando oportunidades par
 
 ---
 
-## 📫 Contato
-*(Você pode adicionar aqui LinkedIn, email ou outras redes futuramente)*
