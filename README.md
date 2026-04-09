@@ -41,6 +41,3 @@ Estou em constante evolução na área de tecnologia, buscando oportunidades par
 
 ---
 
-## 🧠 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavees&layout=compact&theme=tokyonight)
