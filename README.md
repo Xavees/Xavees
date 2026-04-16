@@ -40,4 +40,4 @@ Atualmente participo de duas instituições:
 Estou em constante evolução na área de tecnologia, buscando oportunidades para aplicar meus conhecimentos na prática, ganhar experiência e crescer profissionalmente.
 
 ---
-
+https://github-readme-stats.vercel.app/api/top-langs/?username=Xavees
