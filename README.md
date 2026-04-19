@@ -22,8 +22,7 @@ Atualmente participo de duas instituições:
 - Desenvolvimento Mobile  
 - Desenvolvimento Web  
 - Backend  
-- Banco de Dados  
-- Lógica de Programação  
+- Banco de Dados    
 
 ---
 
