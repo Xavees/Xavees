@@ -28,7 +28,7 @@ Atualmente participo de duas instituições:
 
 ## 🛠️ Tecnologias em aprendizado
 - Java  
-- JavaScript  
+- JavaScript & TypeScript 
 - Ruby  
 - MySQL  
 - C++  
