@@ -31,7 +31,7 @@ Atualmente participo de duas instituições:
 - JavaScript & TypeScript 
 - Ruby  
 - MySQL  
-- C++  
+- PostgreeSQL  
 
 ---
 
