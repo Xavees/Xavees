@@ -14,7 +14,7 @@ Atualmente participo de duas instituições:
 
 - 🎓 **Faculdade Impacta de Tecnologia**  
   Curso: Análise e Desenvolvimento de Sistemas  
-  Período: 1º / 5º semestre  
+  Período: 2º / 5º semestre  
 
 ---
 
