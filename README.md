@@ -10,7 +10,7 @@ Atualmente participo de duas instituições:
 
 - 📘 **ETEC (Escola Técnica Estadual)**  
   Curso: Desenvolvimento de Sistemas  
-  Período: 2º / 3º módulo  
+  Período: 3º / 3º módulo  
 
 - 🎓 **Faculdade Impacta de Tecnologia**  
   Curso: Análise e Desenvolvimento de Sistemas  
