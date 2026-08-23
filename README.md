@@ -1,42 +1,104 @@
 # 👨‍💻 Luis Fernando
 
-Sou um admirador da área de tecnologia e estudante de **Engenharia de Software**, sempre buscando evoluir minhas habilidades e adquirir novos conhecimentos na área de programação.
+### Desenvolvedor em formação | TypeScript • Node.js • React
+
+Olá! Sou **Luis Fernando**, estudante de **Análise e Desenvolvimento de Sistemas** e **Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software.
+
+Atualmente, concentro meus estudos principalmente no ecossistema **TypeScript**, buscando desenvolver uma base sólida em desenvolvimento **Back-end, Web e Mobile**, além de bancos de dados e Cloud.
+
+Meu objetivo profissional é seguir carreira em **Engenharia de Software**, buscando compreender não apenas a programação, mas também o planejamento, arquitetura, modelagem e funcionamento de sistemas como um todo.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-Atualmente participo de duas instituições:
+### 📘 Faculdade Impacta Tecnologia
 
-- 📘 **ETEC (Escola Técnica Estadual)**  
-  Curso: Desenvolvimento de Sistemas  
-  Período: 3º / 3º módulo  
+**Análise e Desenvolvimento de Sistemas**
+📅 2º / 5º semestre
 
-- 🎓 **Faculdade Impacta de Tecnologia**  
-  Curso: Análise e Desenvolvimento de Sistemas  
-  Período: 2º / 5º semestre  
+### 📘 ETEC Uirapuru
 
----
-
-## 🚀 Áreas de Interesse
-- Desenvolvimento Mobile  
-- Desenvolvimento Web  
-- Backend  
-- Banco de Dados    
+**Desenvolvimento de Sistemas**
+📅 3º / 3º módulo
 
 ---
 
-## 🛠️ Tecnologias em aprendizado
-- Java  
-- JavaScript & TypeScript 
-- Ruby  
-- MySQL  
-- PostgreeSQL  
+## 💻 Tecnologias
+
+### Linguagens
+
+* TypeScript
+* JavaScript
+* Java
+* Python
+* SQL
+* Ruby
+
+### Front-end
+
+* React
+* HTML
+* CSS
+
+### Back-end
+
+* Node.js
+* Express.js
+* NestJS
+
+### Banco de Dados
+
+* PostgreSQL
+* MySQL
+
+### Ferramentas e Tecnologias
+
+* Git & GitHub
+* Android Studio
+* VS Code
+* Microsoft Azure
+* Notion
 
 ---
 
-## 📌 Sobre mim
-Estou em constante evolução na área de tecnologia, buscando oportunidades para aplicar meus conhecimentos na prática, ganhar experiência e crescer profissionalmente.
+## 📱 Áreas de Interesse
+
+* 📱 Desenvolvimento Mobile
+* ⚙️ Desenvolvimento Back-end
+* 🌐 Desenvolvimento Web
+* 🗄️ Banco de Dados
+* ☁️ Cloud Computing
+* 🏗️ Engenharia de Software
 
 ---
 
+## 📚 Atualmente estudando
+
+```text
+📘 TypeScript
+⚙️ Node.js / NestJS
+📱 React Native
+🗄️ PostgreSQL
+🐍 Python
+☕ Java
+```
+
+---
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xavees\&show_icons=true\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavees\&layout=compact\&hide_border=true)
+
+---
+
+## 📫 Contato
+
+* 💼 **LinkedIn:** [linkedin.com/in/xavees](https://www.linkedin.com/in/xavees)
+* 💻 **GitHub:** [github.com/Xavees](https://github.com/Xavees)
+
+---
+
+> *Sempre buscando transformar o que aprendo em projetos reais.*
