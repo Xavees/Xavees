@@ -1,6 +1,6 @@
 # 👨‍💻 Luis Fernando
 
-Sou um admirador da área de tecnologia e estudante de **Desenvolvimento de Sistemas**, sempre buscando evoluir minhas habilidades e adquirir novos conhecimentos na área de programação.
+Sou um admirador da área de tecnologia e estudante de **Engenharia de Software**, sempre buscando evoluir minhas habilidades e adquirir novos conhecimentos na área de programação.
 
 ---
 
