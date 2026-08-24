@@ -1,6 +1,6 @@
 # 👨‍💻 Luis Fernando
 
-### Desenvolvedor em formação | TypeScript • Node.js • React
+### Engenheiro em formação | TypeScript • Node.js • React
 
 Olá! Sou **Luis Fernando**, estudante de **Análise e Desenvolvimento de Sistemas** e **Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software.
 
