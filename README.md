@@ -31,7 +31,6 @@ Meu objetivo profissional é seguir carreira em **Engenharia de Software**, busc
 * TypeScript
 * JavaScript
 * Java
-* Python
 * SQL
 * Ruby
 
@@ -77,7 +76,7 @@ Meu objetivo profissional é seguir carreira em **Engenharia de Software**, busc
 
 ```text
 📘 TypeScript
-⚙️ Node.js / NestJS
+⚙️ Node.js / NestJS / Express.js
 📱 React Native
 🗄️ PostgreSQL
 🐍 Python
