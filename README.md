@@ -1,94 +1,65 @@
 # 👨‍💻 Luis Fernando
 
-### Engenheiro em formação | TypeScript • Node.js • React
+### Software Engineering Student | TypeScript • Node.js • React
 
-Olá! Sou **Luis Fernando**, estudante de **Análise e Desenvolvimento de Sistemas** e **Desenvolvimento de Sistemas**, apaixonado por tecnologia e desenvolvimento de software.
+Olá! Sou **Luis Fernando**, estudante de **Análise e Desenvolvimento de Sistemas** e **Desenvolvimento de Sistemas**, com foco em desenvolvimento de software e no ecossistema **TypeScript**.
 
-Atualmente, concentro meus estudos principalmente no ecossistema **TypeScript**, buscando desenvolver uma base sólida em desenvolvimento **Back-end, Web e Mobile**, além de bancos de dados e Cloud.
+Tenho interesse principalmente em **Back-end, Web, Mobile, Bancos de Dados e Engenharia de Software**, buscando entender não apenas código, mas também arquitetura, modelagem, APIs, organização de projetos e boas práticas de desenvolvimento.
 
-Meu objetivo profissional é seguir carreira em **Engenharia de Software**, buscando compreender não apenas a programação, mas também o planejamento, arquitetura, modelagem e funcionamento de sistemas como um todo.
-
----
-
-## 🎓 Formação Acadêmica
-
-### 📘 Faculdade Impacta Tecnologia
-
-**Análise e Desenvolvimento de Sistemas**
-📅 2º / 5º semestre
-
-### 📘 ETEC Uirapuru
-
-**Desenvolvimento de Sistemas**
-📅 3º / 3º módulo
+Atualmente também venho contribuindo com projetos **Open Source**, participando de issues, documentação, automações com GitHub Actions e desenvolvimento de novas funcionalidades.
 
 ---
 
-## 💻 Tecnologias
+## 🛠️ Tecnologias
 
 ### Linguagens
 
-* TypeScript
-* JavaScript
-* Java
-* SQL
-* Ruby
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java" />
+</p>
 
-### Front-end
+### Desenvolvimento
 
-* React
-* HTML
-* CSS
-
-### Back-end
-
-* Node.js
-* Express.js
-* NestJS
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,react,html,css" />
+</p>
 
 ### Banco de Dados
 
-* PostgreSQL
-* MySQL
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
 
-### Ferramentas e Tecnologias
+### Ferramentas
 
-* Git & GitHub
-* Android Studio
-* VS Code
-* Microsoft Azure
-* Notion
-
----
-
-## 📱 Áreas de Interesse
-
-* 📱 Desenvolvimento Mobile
-* ⚙️ Desenvolvimento Back-end
-* 🌐 Desenvolvimento Web
-* 🗄️ Banco de Dados
-* ☁️ Cloud Computing
-* 🏗️ Engenharia de Software
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,vite" />
+</p>
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Atualmente
 
-```text
-📘 TypeScript
-⚙️ Node.js / NestJS / Express.js
-📱 React Native
-🗄️ PostgreSQL
-🐍 Python
-☕ Java
-```
+- ⚙️ Aprofundando conhecimentos em **TypeScript, Node.js e NestJS**
+- 🌐 Desenvolvendo aplicações com **React + TypeScript**
+- 📱 Estudando desenvolvimento **Mobile**
+- 🗄️ Trabalhando com **MySQL e PostgreSQL**
+- 🏗️ Aprendendo mais sobre **arquitetura e Engenharia de Software**
+- 🤝 Contribuindo com projetos **Open Source**
 
+---
+
+## 🎓 Formação
+
+**Faculdade Impacta Tecnologia**  
+Análise e Desenvolvimento de Sistemas — 2º / 5º semestre
+
+**ETEC Uirapuru**  
+Desenvolvimento de Sistemas — 3º / 3º módulo
+
+---
 
 ## 📫 Contato
 
-* 💼 **LinkedIn:** [linkedin.com/in/xavees](https://www.linkedin.com/in/xavees)
-* 💻 **GitHub:** [github.com/Xavees](https://github.com/Xavees)
-
----
-
-> *Sempre buscando transformar o que aprendo em projetos reais.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xavees)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xavees)
