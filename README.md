@@ -57,6 +57,10 @@ Análise e Desenvolvimento de Sistemas — 2º / 5º semestre
 **ETEC Uirapuru**  
 Desenvolvimento de Sistemas — 3º / 3º módulo
 
+**Fatec Osasco**
+Desenvolvimento de Software Multiplataforma  — 1º / 6º semestre 
+
+
 ---
 
 ## 📫 Contato
