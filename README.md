@@ -33,7 +33,7 @@ Atualmente também venho contribuindo com projetos **Open Source**, participando
 ### Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,vite" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,vite" />
 </p>
 
 ---
@@ -63,3 +63,4 @@ Desenvolvimento de Sistemas — 3º / 3º módulo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xavees)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xavees)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Xavees)
