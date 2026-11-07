@@ -33,7 +33,7 @@ Atualmente também venho contribuindo com projetos **Open Source**, participando
 ### Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,vite" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio" />
 </p>
 
 ---
