@@ -53,7 +53,7 @@ Atualmente também venho contribuindo com projetos **Open Source**, participando
 ## 🎓 Formação
 
 **Faculdade Impacta Tecnologia**  
-Análise e Desenvolvimento de Sistemas — 2º / 5º semestre
+Análise e Desenvolvimento de Sistemas — 3º / 5º semestre
 
 **ETEC Uirapuru**  
 Desenvolvimento de Sistemas — 3º / 3º módulo
