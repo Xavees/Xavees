@@ -41,8 +41,9 @@ Atualmente também venho contribuindo com projetos **Open Source**, participando
 ## 📚 Atualmente
 
 - ⚙️ Aprofundando conhecimentos em **TypeScript, Node.js e NestJS**
-- 🌐 Desenvolvendo aplicações com **React + TypeScript**
+- 🌐 Desenvolvendo aplicações com **Nest +  TypeScript**
 - 📱 Estudando desenvolvimento **Mobile**
+- 🐳 Aprendendo Docker 
 - 🗄️ Trabalhando com **MySQL e PostgreSQL**
 - 🏗️ Aprendendo mais sobre **arquitetura e Engenharia de Software**
 - 🤝 Contribuindo com projetos **Open Source**
