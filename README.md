@@ -15,7 +15,7 @@ Atualmente também venho contribuindo com projetos **Open Source**, participando
 ### Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java" />
+  <img src="https://skillicons.dev/icons?i=ts,js" />
 </p>
 
 ### Desenvolvimento
